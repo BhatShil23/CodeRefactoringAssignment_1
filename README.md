@@ -1,2 +1,2 @@
-# RefactoringAssignment
-Sample of refactored code
+# CodeRefactoringAssignment-1
+Sample code of shopping cart
